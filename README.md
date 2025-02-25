@@ -43,3 +43,6 @@ Criar uma aplicação que permita cadastrar usuários. Eles devem poder criar de
  - score (Nota da última revisão — 0 a 5)
  - created_at
  - updated_at
+
+
+ Obs. Implementar projeto base e depois trocar ambiente de desenvolvimento para dynaconf
